@@ -1,0 +1,3 @@
+/home/wujh/A2L_performance/performance/src/build/CMakeFiles/rebuild_cache.dir
+/home/wujh/A2L_performance/performance/src/build/CMakeFiles/edit_cache.dir
+/home/wujh/A2L_performance/performance/src/build/CMakeFiles/performance.dir

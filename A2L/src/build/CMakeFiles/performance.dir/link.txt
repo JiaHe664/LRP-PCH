@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/performance.dir/performance.o CMakeFiles/performance.dir/utils.o  -o performance  -Wl,-rpath,/usr/local/lib /usr/local/lib/librelic.so /usr/local/lib/libpari.so 
